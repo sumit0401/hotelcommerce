@@ -44,7 +44,7 @@ You will be able to launch your hotel website, showcase your property and take a
 In order to install QloApps you will need the following server configurations for hosted and local serves.
 The system compatibility will also be checked by the system with installation and if the server is not compatible then the installation will not move ahead.
 
-#### Hosted Server Configurations
+#### Hosted Server Configuration
 
 * **Web server**: Apache 1.3, Apache 2.x, Nginx or Microsoft IIS
 * **PHP  version**: PHP 5.6+ to PHP 7.4
